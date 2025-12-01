@@ -1,0 +1,27 @@
+/* Element selector */
+h1 {
+    color: blue;
+}
+
+/* Class selector */
+.highlight {
+    background: yellow;
+    padding: 5px;
+}
+
+/* ID selector */
+#uniqueBox {
+    border: 2px solid red;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+/* Group selector */
+h1, h2 {
+    text-align: center;
+}
+
+/* Descendant selector */
+.parent p {
+    font-weight: bold;
+}
