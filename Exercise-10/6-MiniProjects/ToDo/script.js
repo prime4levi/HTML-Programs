@@ -1,0 +1,1 @@
+add.onclick=()=>{let li=document.createElement('li');li.textContent=task.value;list.appendChild(li);};
