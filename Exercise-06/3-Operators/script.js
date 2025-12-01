@@ -1,0 +1,1 @@
+console.log(5+5,5*5,10==10,10===10, true&&false);

@@ -1,0 +1,1 @@
+let a=10; const b='Saswat'; var c=true; console.log(a, typeof a);

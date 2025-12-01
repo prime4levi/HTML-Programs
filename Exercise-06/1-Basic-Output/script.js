@@ -1,0 +1,1 @@
+alert('Hello from JS'); console.log('Logged'); document.write('Document Write');

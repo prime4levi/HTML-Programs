@@ -1,0 +1,1 @@
+document.getElementById('clickBtn').addEventListener('click',()=>{document.getElementById('txt').style.color='red';});

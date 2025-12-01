@@ -1,0 +1,2 @@
+const input=document.getElementById('task'); const list=document.getElementById('list');
+document.getElementById('add').onclick=()=>{let li=document.createElement('li'); li.textContent=input.value; list.appendChild(li);};
