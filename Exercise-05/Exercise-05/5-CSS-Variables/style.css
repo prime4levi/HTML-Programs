@@ -1,0 +1,2 @@
+:root{--main-color:purple;--pad:20px;}
+.box{background:var(--main-color);padding:var(--pad);color:white;width:100px;text-align:center;}

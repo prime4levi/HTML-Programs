@@ -1,0 +1,4 @@
+.btn{padding:10px 20px;background:lightblue;border:none;transition:0.3s;}
+.btn:hover{background:blue;color:white;}
+.box{width:100px;height:100px;background:red;transition:background 0.5s;}
+.box:hover{background:green;}

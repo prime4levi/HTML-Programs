@@ -1,0 +1,4 @@
+.img{transition:0.3s;transform:scale(1);}
+.img:hover{transform:scale(1.2);}
+.box{width:100px;height:100px;background:purple;color:white;display:flex;align-items:center;justify-content:center;transition:0.3s;}
+.box:hover{transform:rotate(20deg);}

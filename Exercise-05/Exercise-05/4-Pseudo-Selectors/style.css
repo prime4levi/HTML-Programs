@@ -1,0 +1,4 @@
+a:hover{color:red;}
+a:active{color:green;}
+.text::before{content:'>> ';color:blue;}
+.text::after{content:' <<';color:blue;}
