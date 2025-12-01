@@ -1,0 +1,6 @@
+.sidebar{width:200px;background:#333;color:white;padding:20px;float:left;}
+.content{margin-left:220px;padding:20px;background:#eee;}
+@media(max-width:600px){
+.sidebar{width:100%;float:none;}
+.content{margin-left:0;}
+}
